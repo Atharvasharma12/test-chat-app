@@ -1,0 +1,9 @@
+
+
+.home-card{
+    background-color: aqua;
+    /* position: relative; */
+    width: 37%;
+    /* max-height: 50vh; */
+    border-radius: 14px;
+}
